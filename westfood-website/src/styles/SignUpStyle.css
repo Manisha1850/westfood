@@ -1,0 +1,71 @@
+.header2{
+    background: #D2E7FA;
+    text-align: center;
+    padding: 15px;
+}
+
+.Signup-form {
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    margin-left: 500px;
+    margin-right: 50px;
+    box-sizing: border-box;
+    padding-top: 1px;
+  }
+  
+  .label {
+    text-align: left;
+    font-size: 1.2rem;
+    margin-top: 2rem;
+    display: block;
+  }
+  
+  .input {
+    width: 500px;
+    height: 30px;
+    padding: 5px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 0.5rem;
+  }
+  
+  .button {
+    
+    width: 200px;
+    height: 44px;
+    background-color: #104E97;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin-right: 700px;
+    font-size: 1.2rem;
+    margin-top: 4rem;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #D2E7FA;
+    text-decoration-color: #104E97;
+  }
+  
+  .link {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    text-align: left;
+    margin-left: 10px; /* Align the link to the left */
+  }
+  
+  .link a {
+    color: #333;
+    text-decoration: none;
+    
+  }
+  
+  .link a:hover {
+    text-decoration: underline;
+  }
+  

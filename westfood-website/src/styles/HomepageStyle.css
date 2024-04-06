@@ -1,0 +1,18 @@
+.head{
+  background-color: #D2E7FA;
+  padding: 60px;
+}
+
+/* mobile view */
+.mobile-navigation{
+  list-style: none;
+}
+.mobile-navigation li{
+  margin-top: 20px;
+}
+.mobile-navigation li a{
+  text-decoration: none;
+  font-size: 1.4rem;
+  color: black;
+
+}
